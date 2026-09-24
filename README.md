@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**Lokeshwari-Krishnasamy/Lokeshwari-Krishnasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Lokeshwari 👋
+ 
+Software Engineer with 10+ years of experience in the telecom/software
+industry, currently expanding my skills in Python, AI, DevOps and Cloud.
+ 
+## 🔭 Currently Learning
+ 
+- Python
+- Generative AI
+- Prompt Engineering
+- Git & GitHub
+- Docker
+- CI/CD
+- Cloud Technologies
+ 
+## 💻 Technical Interests
+ 
+- Artificial Intelligence
+- Python Development
+- DevOps
+- Cloud
+- Automation
+- Telecom Software
+ 
+## 🎯 Current Goal
+ 
+Building hands-on projects in Python, AI and DevOps and documenting
+my learning journey through GitHub.
+ 
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/lokeshwari-krishnasamy
